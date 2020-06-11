@@ -1,8 +1,5 @@
 <h1 align="center">
 <br>
-  <img src="LOGO" alt="USERS API REQUEST" width="120">
-<br>
-<br>
 DESAFIO USERS API REQUEST
 </h1>
 
@@ -25,3 +22,11 @@ DESAFIO USERS API REQUEST
 [//]: # (Add the features of your project here:)
 Essa aplicação utiliza HTML, CSS e JavaScript puro.
 
+## Getting started
+
+Describe here the way to use/install your project
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
