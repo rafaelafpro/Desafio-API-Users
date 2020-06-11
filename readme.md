@@ -24,7 +24,17 @@ Essa aplicação utiliza HTML, CSS e JavaScript puro.
 
 ## Getting started
 
-Describe here the way to use/install your project
+Clone o projeto com:
+
+<pre>git clone https://github.com/rafaelafpro/Desafio-API-Users.git</pre>
+
+Instale o a biblioteca live-server com:
+
+<pre>npm install live-server</pre>
+
+Vá até o diretório e execute o comando:
+
+<pre>live-server</pre>
 
 
 ## License
