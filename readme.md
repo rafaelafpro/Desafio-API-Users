@@ -3,7 +3,7 @@
 DESAFIO USERS API REQUEST
 </h1>
 
-<p align="center">Aplicação proposta no Módulo 1 do Bootcamp "Desenvolvedor Full Stack do IGTI. Consistem em solicitar dados de usuários em uma API, filtrá-los e exibir algumas estatísitcas sobre eles</p>
+<p align="center">Aplicação proposta no Módulo 1 do Bootcamp "Desenvolvedor Full Stack do IGTI. Consist em solicitar dados de usuários em uma API, filtrá-los e exibir algumas estatísitcas sobre eles</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
